@@ -26,3 +26,13 @@
   #books {
       margin-top: 30px;
   }
+  .poster {
+    width:100%;
+    height:100%;
+    margin-top:30px;
+    max-height: 270px;
+    object-fit: contain; 
+  }
+  .row {
+      margin-top: 30px;
+  }
